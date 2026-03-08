@@ -50,8 +50,11 @@ cd Prompr-AI
 
 ### Usage
 
-Integrate the logic from the `GEMINI*.md` files into your agent's system prompt or configuration. We recommend starting with **V3** for the most advanced autonomous experience.
-
+use 'gemini' to run the prompt provided that you have installed gemini-cli[https://geminicli.com/], 
+then just type 
+'''
+use role GEMINI-V1,V2.md
+'''
 ---
 
 ## 🚀 The Mission
