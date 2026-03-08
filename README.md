@@ -55,7 +55,7 @@ provided that you have installed [gemini-cli](https://geminicli.com/)
 then just type 
 
 ```python
-color.red(/home/Prompr-AI#) gemini use role GEMINI,V1,V2.md
+/home/Prompr-AI : gemini use role GEMINI,V1,V2.md
 ```
 
 ---
