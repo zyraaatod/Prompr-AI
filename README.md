@@ -55,7 +55,7 @@ provided that you have installed [gemini-cli](https://geminicli.com/)
 then just type 
 
 ```
-use role GEMINI-V1,V2.md
+use role GEMINI,V1,V2.md
 ```
 
 ---
