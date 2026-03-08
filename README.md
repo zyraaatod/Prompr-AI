@@ -50,14 +50,13 @@ cd Prompr-AI
 
 ### Usage
 
-<h3>
-
+<h5>
 use 'gemini' to run the prompt,
 provided that you have installed [gemini-cli](https://geminicli.com/)
 then just type 
-</h3>
+</h5>
 
-'''
+'''markdown
 use role GEMINI-V1,V2.md
 '''
 
