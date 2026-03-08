@@ -50,7 +50,7 @@ cd Prompr-AI
 
 ### Usage
 
-use 'gemini' to run the prompt provided that you have installed gemini-cli<src herf=https://geminicli.com/>, 
+use 'gemini' to run the prompt provided that you have installed [gemini-cli](https://geminicli.com/), 
 then just type 
 '''
 use role GEMINI-V1,V2.md
