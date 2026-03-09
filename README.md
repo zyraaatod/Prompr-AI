@@ -50,13 +50,7 @@ cd Prompr-AI
 
 ### Usage
 
-use 'gemini' to run the prompt,
-provided that you have installed [gemini-cli](https://geminicli.com/)
-then just type 
-
-```python
-/home/Prompr-AI : gemini use role GEMINI,V2,V3.md
-```
+Integrate the logic from the `GEMINI*.md` files into your agent's system prompt or configuration. We recommend starting with **V3** for the most advanced autonomous experience.
 
 ---
 
